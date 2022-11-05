@@ -6,7 +6,7 @@ I'm currently attending Codesmith, a software engineering bootcamp, with the goa
 <a href="mailto:christophminkim@gmail.com">Email</a>
 [LinkedIn](https://www.linkedin.com/in/chris-m-kim/)
 
-⚡ **Fun fact**: I play the guitar!
+⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
 
 🌱 **Currently learning**:
 
