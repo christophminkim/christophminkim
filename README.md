@@ -2,16 +2,20 @@
   
 I'm currently attending Codesmith, a software engineering bootcamp, with the goal of becoming a software engineer. I am also working towards a degree in Computer Science.
 
-📫 **Contact**:
-<a href="mailto:christophminkim@gmail.com">Email</a>
+My email is <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com</a> and I would love to connect with you!
+
+🤝 **Socials**:
 [LinkedIn](https://www.linkedin.com/in/chris-m-kim/)
 
-⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
+📋 **What I'm doing**:
+
+- Ideating on a open source product to build with my team
+- The Odin Project (TOP) projects
+- Learning math required for calculus to start CS degree
 
 🌱 **Currently learning**:
 
 - React
-- Node
-- Express
-- PostgreSQL
-- MongoDB
+- GraphQL
+
+⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
