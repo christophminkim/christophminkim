@@ -9,7 +9,7 @@ My email is <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com
 
 📋 **What I'm doing**:
 
-- Ideating on a open source product to build with my team
+- Ideating on an open source product to build with my team
 - The Odin Project (TOP) projects
 - Learning math required for calculus to start CS degree
 
