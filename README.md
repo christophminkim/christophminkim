@@ -15,7 +15,6 @@ My email is <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com
 
 🌱 **Currently learning**:
 
-- React
 - GraphQL
 
 ⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
