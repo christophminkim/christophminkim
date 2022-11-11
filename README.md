@@ -14,8 +14,6 @@ I'm currently attending Codesmith, a software engineering bootcamp, with the goa
 
 ⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
 
-🤝 **Connect**:
-
-- [LinkedIn](https://www.linkedin.com/in/chris-m-kim/)
+🤝 **Connect**: [LinkedIn](https://www.linkedin.com/in/chris-m-kim/)
 
 Reach me via email at <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com</a>.
