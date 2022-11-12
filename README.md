@@ -6,7 +6,6 @@ I'm currently attending Codesmith, a software engineering bootcamp, with the goa
 
 - [Building an MVP for SafeQL](https://github.com/oslabs-beta/SafeQL)
 - [The Odin Project (TOP) projects](https://github.com/christophminkim/the-odin-project)
-- [Studying math required for calculus](https://github.com/christophminkim/cs-degree-notes/blob/main/prerequisites/algebra.md)
 
 🌱 **Currently learning**:
 
