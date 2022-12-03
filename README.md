@@ -9,7 +9,7 @@ I'm currently attending Codesmith, a software engineering bootcamp, with the goa
 
 🌱 **Currently learning**:
 
-- GraphQL
+- CSS
 
 ⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
 
