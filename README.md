@@ -1,26 +1,8 @@
-<!-- <h3>Hi, I'm Christopher Kim!</h3>
-  
-I'm currently attending Codesmith, a software engineering bootcamp, with the goal of becoming a software engineer. I am also working towards a degree in Computer Science.
+## Hi, I'm Christopher Kim!
 
-📋 **What I'm doing**:
+I'm currently attending Codesmith, an advanced immersive for software engineering. I am also working towards a degree in Computer Science.
 
-- [Building an MVP for SafeQL](https://github.com/oslabs-beta/SafeQL)
-- [The Odin Project (TOP) projects](https://github.com/christophminkim/the-odin-project)
-
-🌱 **Currently learning**:
-
-- CSS (Tailwind)
-- OOP
-
-⚡ **Fun fact**: I play the guitar and built two of them (my acoustic and electric) from scratch!
-
-🤝 **Connect**: [LinkedIn](https://www.linkedin.com/in/chris-m-kim/)
-
-Reach me via email at <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com</a>. -->
-
-# Hi, I'm Christopher Kim!
-  
-I'm currently attending Codesmith, a software engineering bootcamp, with the goal of becoming a software engineer. I am also working towards a degree in Computer Science.
+A fun fact about me is that I play the guitar and built two of them (my acoustic and electric) from scratch!
 
 ### 📋 What I'm doing:
 
@@ -32,8 +14,4 @@ I'm currently attending Codesmith, a software engineering bootcamp, with the goa
 - CSS (Tailwind)
 - OOP
 
-### ⚡ Fun fact: I play the guitar and built two of them (my acoustic and electric) from scratch!
-
-### 🤝 Connect: [LinkedIn](https://www.linkedin.com/in/chris-m-kim/)
-
-Reach me via email at <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com</a>.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/chris-m-kim/) and reach me via email at <a href="mailto:christophminkim@gmail.com">christophminkim@gmail.com</a>.
