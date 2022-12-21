@@ -1,4 +1,4 @@
-### 🍔 Hi, I'm Chris!
+### Hi, I'm Chris!
 
 I'm currently attending Codesmith, an advanced immersive for software engineering. I am also working towards a degree in Computer Science.
 
