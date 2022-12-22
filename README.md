@@ -1,6 +1,6 @@
 ## Hi, I'm Chris!
 
-I'm currently attending Codesmith, an advanced immersive for software engineering. I am also working towards a degree in Computer Science.
+I'm currently attending Codesmith, an advanced immersive for software engineering. I am also working towards a Computer Science degree.
 
 A fun fact about me is that I play the guitar and built two of them (my acoustic and electric) from scratch!
 
